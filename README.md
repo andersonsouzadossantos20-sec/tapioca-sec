@@ -1,21 +1,23 @@
-# 🛡️ Bug Bounty Roadmap — Tapioca
+# 🛡️ Bug Bounty & Cybersecurity Roadmap
 
-This repository documents my daily study and practice in cybersecurity and bug bounty.
+Este repositório documenta minha evolução contínua na área de cibersegurança, com foco em bug bounty, pentest e segurança de aplicações web.
 
-## 🎯 Objective
-Build strong foundations in networking, web security, and vulnerability research.
+Aqui registro meus estudos, práticas e aprendizados técnicos de forma estruturada e progressiva.
 
-## 📅 Structure
-- Week 1: Networking Fundamentals
-- Week 2: Web Technologies
-- Week 3: Vulnerabilities
-- Week 4: Practical Bug Bounty
+---
 
-## 🚀 Method
-Each topic includes:
-- Technical summary
-- Practical examples
-- Security analysis
+## 👨‍💻 Sobre mim
 
-## 📌 Status
-In progress — Daily updates
+Sou estudante de cibersegurança com foco em redes, segurança ofensiva ja tive experiencia com desenvolvimento backend com python(flask, fastapi).  
+Atualmente, estudo e pratico técnicas de análise, exploração e mitigação de vulnerabilidades em ambientes controlados e plataformas legais.
+
+Tenho interesse especial em:
+- Segurança Web
+- Bug Bounty
+---
+
+## 🎯 Objetivo
+
+Construir uma base sólida em segurança da informação e me tornar um profissional preparado para atuar em projetos reais, programas de bug bounty e ambientes corporativos.
+---
+
