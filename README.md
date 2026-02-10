@@ -62,4 +62,4 @@ Nenhuma técnica aqui descrita deve ser utilizada sem permissão explícita.
 
 ## 📫 Contato
 
-GitHub: https://githug/andersonsouzadossantos20-sec/tapioca-sec
+GitHub: https://github/andersonsouzadossantos20-sec/tapioca-sec
