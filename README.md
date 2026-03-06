@@ -1,3 +1,5 @@
+## 🛡️ Cybersecurity Study Log
+
 Este repositório documenta minha evolução contínua na área de cibersegurança.
 
 Aqui registro estudos, anotações técnicas, laboratórios práticos e experimentos relacionados a segurança de redes, sistemas e aplicações web.
