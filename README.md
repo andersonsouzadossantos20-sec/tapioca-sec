@@ -8,9 +8,9 @@ Sou estudante de cibersegurança com interesse em segurança ofensiva, redes e a
 
 ---
 
-Tenho experiência com desenvolvimento backend em Python, utilizando frameworks como Flask e FastAPI, o que contribui para compreender melhor o funcionamento interno de aplicações web.
+Ja tive experiência com desenvolvimento backend em Python, utilizando frameworks como Flask e FastAPI, o que contribui para compreender melhor o funcionamento interno de aplicações web.
 
-Atualmente foco em estudar fundamentos de segurança da informação, análise de vulnerabilidades, redes e automação com Python em ambientes controlados.
+Atualmente foco em estudar fundamentos de segurança da informação, análise de vulnerabilidades, redes e automação com Python.
 
 ---
 
