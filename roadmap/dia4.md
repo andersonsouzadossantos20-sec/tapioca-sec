@@ -38,7 +38,10 @@ entender como funcina a comunicação do dispositivo ao getway, entender como um
 
 # 💻 Comandos / Sintaxe Importante
 
-``` ip neigh```
+```
+ip neigh
+192.168.0.1 dev wlan0 lladdr 34:ab:cd:xx:xx:xx REACHABLE
+```
 
 ---
 
