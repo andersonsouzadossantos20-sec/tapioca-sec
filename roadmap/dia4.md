@@ -38,8 +38,7 @@ entender como funcina a comunicação do dispositivo ao getway, entender como um
 
 # 💻 Comandos / Sintaxe Importante
 
-´´´bash
-ip neigh
+´´´ ip neigh
 
 ---
 
