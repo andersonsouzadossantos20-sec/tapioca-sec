@@ -1,6 +1,6 @@
 # 📚 Registro de Estudo — Cibersegurança
 
-**Data:**  12/03/2026
+**Data:** 12/03/2026
 **Tema:** Camada 3 — Rede (IP)  
 **Área:** Redes
 
