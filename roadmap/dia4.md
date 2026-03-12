@@ -88,7 +88,7 @@ Conhecer a camada enlance faz eu entnder como os dispositivos recebe as indentif
 
 # 🧩 Insight do Dia
 
-todos os dispositivos tem uma forma de ser indentificado dentro de uma rede local com o mac
+todos os dispositivos tem um indentificador de placa de rede conhecido como MAC e todo mac e unico que permite a troca de frmaes na rede local.
 
 ---
 
