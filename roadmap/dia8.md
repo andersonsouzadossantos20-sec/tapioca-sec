@@ -98,7 +98,7 @@ Entender redes não é decorar porta e número, é entender o fluxo. Se você en
 
 ## 📖 Próximo Passo
 
-Mergulhar em **5.1 — Protocolos de comunicação**.
+Mergulhar no **modulo 6**.
 
 ---
 
