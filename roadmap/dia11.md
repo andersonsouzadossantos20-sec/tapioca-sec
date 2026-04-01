@@ -101,7 +101,7 @@ O endereço IP te leva até a porta do prédio, mas é o endereço MAC que te le
 
 ## 📖 Próximo Passo
 
-Estudar **7.1 — Encapsulamento e o quadro Ethernet**.
+Estudar **modulo 08: protocolo de internet(IP)**
 
 ---
 
