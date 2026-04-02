@@ -106,7 +106,7 @@ Focar na **Máscara de Sub-rede**. Ela é quem manda. Se a máscara for `/24` (2
 
 ## 📖 Próximo Passo
 
-Estudar **Módulo 10 — Formatos e regras de endereçamento IPv6** (O futuro que já chegou!).
+Estudar **Módulo 10 — Formatos e regras de endereçamento IPv6**.
 
 ---
 
