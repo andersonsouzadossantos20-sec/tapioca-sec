@@ -8,4 +8,4 @@
 
 Aqui está o registro da minha conquista:
 
-[📄 Clique aqui para visualizar o Certificado (PDF)](../I2CSUpdate20260317-33-zogf9y.pdf)
+[📄 Clique aqui para visualizar o Certificado (PDF)](..certificaçoes/I2CSUpdate20260317-33-zogf9y.pdf)
