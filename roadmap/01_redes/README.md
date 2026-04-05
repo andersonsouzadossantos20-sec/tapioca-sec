@@ -1,28 +1,29 @@
-# 🌐 Infraestrutura e Protocolos de Rede
+# 🌐 Infraestrutura e Defesa de Redes (Cisco Networking Academy)
 
-> "Você não pode proteger o que não consegue entender." 
+> "Para dominar a arte da invasão, é preciso primeiro ser um mestre na arte da construção."
 
 ### ❓ Para que serve esta pasta?
-Esta pasta é o alicerce do meu aprendizado. Em Cibersegurança, a rede é o campo de batalha. Aqui eu documento como os dados são segmentados, endereçados e transmitidos. Se um hacker quer invadir um sistema, ele quase sempre passará pela rede primeiro. Entender os protocolos aqui listados é o que me permite detectar anomalias e fechar brechas.
+Este repositório é o registro da minha evolução técnica na fundação de Redes. Aqui não guardo apenas arquivos, mas o entendimento de como os dados nascem, viajam e são protegidos. Estudei desde a configuração básica de dispositivos até os protocolos complexos que mantêm a internet de pé. Cada módulo aqui registrado é uma camada a menos de "blindagem" que um atacante teria contra o meu monitoramento.
 
-### 🛡️ Redes na Cibersegurança: Por que estudar isso?
-* **Análise de Tráfego:** Saber ler um cabeçalho IP no Wireshark para identificar um ataque.
-* **Defesa de Perímetro:** Configurar Firewalls e Gateways para impedir acessos não autorizados.
-* **Movimentação Lateral:** Entender como um invasor pula de um PC para outro dentro da mesma LAN (ARP/MAC).
-* **Segurança de Protocolo:** Identificar por que protocolos como HTTP ou Telnet são perigosos (tráfego em texto claro).
+### 🛡️ O Roadmap da Minha Base Técnica
+Não estudei apenas comandos, estudei o fluxo. Minha base atual cobre:
 
-## 🛠️ Matriz de Conhecimento (Modelo OSI)
+* **Fundamentos e Acesso (Módulos 1-7):** Construção de redes domésticas e empresariais, padrões Ethernet e como a Camada Física (cabos e sinais) sustenta tudo. Aqui aprendi que a segurança começa no acesso físico.
+* **O Coração da Internet - IP (Módulos 8-10):** Domínio total de IPv4 e IPv6. Entendo como o mundo se endereça, como as sub-redes isolam tráfego e por que o esgotamento do IPv4 mudou o jogo da segurança.
+* **Automação e Saída (Módulos 11-12):** Implementação de DHCP (entrega dinâmica de confiança) e Gateways com NAT. Entendo como redes privadas se escondem atrás de IPs públicos para ganhar uma camada extra de proteção.
+* **Resolução de Endereços - ARP (Módulo 13):** Onde a lógica (IP) vira física (MAC). Este estudo foi crucial para eu entender como ataques de interceptação (Man-in-the-Middle) nascem na confiança cega dos protocolos locais.
 
-| Camada | O que eu estudo | Relevância para Segurança |
+## 🧠 Matriz de Guerra (Visão Cyber)
+
+| Área de Estudo | O que foi dominado | Por que isso me torna um defensor melhor? |
 | :--- | :--- | :--- |
-| **7. Aplicação** | HTTP, DNS, DHCP | Onde ocorrem ataques de Phishing e sequestro de DNS. |
-| **4. Transporte** | TCP, UDP, Portas | Identificação de Port Scanning e ataques de negação de serviço (DoS). |
-| **3. Rede** | IPv4, IPv6, ICMP, ARP | Base para entender IP Spoofing e ataques Man-in-the-Middle. |
-| **2. Enlace** | Ethernet, MAC, Switches | Onde ocorrem ataques de MAC Flooding e envenenamento de tabela ARP. |
+| **Endereçamento** | IPv4, IPv6, Subnetting | Permite segmentar redes para que uma invasão em um PC não comprometa o servidor. |
+| **Protocolos Base** | ARP, ICMP, DHCP | Essencial para detectar 'Rogue Devices' (dispositivos intrusos) tentando se passar pelo Gateway. |
+| **Conectividade** | NAT, Portas, Roteamento | Base para configurar Firewalls e entender como o tráfego malicioso tenta "pular" para dentro da rede. |
+| **Modelos** | OSI e TCP/IP | Dá o vocabulário e a lógica para realizar Perícia Digital (Forensics) em qualquer camada do tráfego. |
 
-## 🚀 Práticas e Laboratórios
-* **Cisco Packet Tracer:** Construção de topologias seguras e segmentação de VLANs.
-* **Wireshark Deep Dive:** Captura e inspeção de pacotes para perícia digital.
-* **Curso de redes basica da cisco:** ensina o basico sobre redes.
+## 🛠️ Ferramentas em Constante Uso
+* **Cisco Packet Tracer:** Onde projeto e estresso topologias de rede antes de irem para o mundo real.
+* **Wireshark:** Minha lupa. Uso para dissecar pacotes e validar se os protocolos estão seguindo as regras ou se há algo suspeito no ar.
 
 ---
