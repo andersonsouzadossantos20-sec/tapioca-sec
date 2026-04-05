@@ -16,10 +16,10 @@ Diferente de outras áreas, a segurança da informação exige padrões rígidos
 | Certificação | Instituição | O que ela valida? | Status |
 | :--- | :--- | :--- | :--- |
 | **Cybersecurity Essentials** | Cisco | Princípios fundamentais de defesa e ameaças digitais. | ✅ Concluído |
-| **[noções basica de rede]** | [cisco] | [Breve descrição do foco da cert] | ⏳ Em Progresso |
+| **noções basica de rede** | [cisco] | [Breve descrição do foco da cert] | ⏳ Em Progresso |
 
 ## 🚀 Próximos Alvos (Minha Trilha)
-Minha meta é construir um perfil híbrido (Defesa e Ataque). Meus próximos passos incluem:
+Minha meta é construir um perfil híbrido (Defesa e Ataque). Meus próximos passos futuramente incluem:
 1. **CompTIA Security+:** Para consolidar a base de analista de segurança.
 2. **eJPT / OSCP:** Focando no lado prático de Testes de Invasão (Pentest).
 3. **AWS/Azure Cloud Security:** Porque o futuro dos dados está na nuvem.
