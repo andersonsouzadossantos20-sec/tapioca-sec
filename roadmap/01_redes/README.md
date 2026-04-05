@@ -1,27 +1,28 @@
 # 🌐 Infraestrutura e Protocolos de Rede
 
-> "In networking, the shortest path isn't always a straight line, but the one defined by the routing table."
+> "Você não pode proteger o que não consegue entender." 
 
-Nesta pasta, documento meu progresso no currículo **Cisco Networking Academy**, focando em como os dados são estruturados, endereçados e transportados globalmente.
+### ❓ Para que serve esta pasta?
+Esta pasta é o alicerce do meu aprendizado. Em Cibersegurança, a rede é o campo de batalha. Aqui eu documento como os dados são segmentados, endereçados e transmitidos. Se um hacker quer invadir um sistema, ele quase sempre passará pela rede primeiro. Entender os protocolos aqui listados é o que me permite detectar anomalias e fechar brechas.
 
-## 🛠️ Core Knowledge (O que domino aqui)
+### 🛡️ Redes na Cibersegurança: Por que estudar isso?
+* **Análise de Tráfego:** Saber ler um cabeçalho IP no Wireshark para identificar um ataque.
+* **Defesa de Perímetro:** Configurar Firewalls e Gateways para impedir acessos não autorizados.
+* **Movimentação Lateral:** Entender como um invasor pula de um PC para outro dentro da mesma LAN (ARP/MAC).
+* **Segurança de Protocolo:** Identificar por que protocolos como HTTP ou Telnet são perigosos (tráfego em texto claro).
 
-| Camada | Protocolos/Conceitos Chave | Descrição |
+## 🛠️ Matriz de Conhecimento (Modelo OSI)
+
+| Camada | O que eu estudo | Relevância para Segurança |
 | :--- | :--- | :--- |
-| **7. Aplicação** | HTTP, DNS, DHCP | Interface direta com o usuário e serviços de rede. |
-| **4. Transporte** | TCP, UDP, Portas | Controle de fluxo e confiabilidade da entrega. |
-| **3. Rede** | IPv4, IPv6, ICMP, ARP | Endereçamento lógico e roteamento entre sub-redes. |
-| **2. Enlace** | Ethernet, MAC, Switching | Comunicação física e entrega em redes locais (LAN). |
-| **1. Física** | Cabos UTP, Fibra, Wireless | O meio físico e a sinalização dos bits. |
+| **7. Aplicação** | HTTP, DNS, DHCP | Onde ocorrem ataques de Phishing e sequestro de DNS. |
+| **4. Transporte** | TCP, UDP, Portas | Identificação de Port Scanning e ataques de negação de serviço (DoS). |
+| **3. Rede** | IPv4, IPv6, ICMP, ARP | Base para entender IP Spoofing e ataques Man-in-the-Middle. |
+| **2. Enlace** | Ethernet, MAC, Switches | Onde ocorrem ataques de MAC Flooding e envenenamento de tabela ARP. |
 
-## 🚀 Tópicos de Destaque
-* **Subnetting (VLSM):** Planejamento e divisão de redes para otimização de hosts.
-* **NAT & Gateways:** Como a rede privada se comunica com o mundo externo.
-* **Resolução de Nomes e Endereços:** O papel fundamental do DNS e do ARP na rede.
-
-## 🔬 Laboratórios Práticos
-* Configuração de roteadores e switches via CLI.
-* Captura de pacotes no **Wireshark** para análise de Handshake TCP e mensagens ICMP.
-* Simulações complexas de topologias no **Cisco Packet Tracer**.
+## 🚀 Práticas e Laboratórios
+* **Cisco Packet Tracer:** Construção de topologias seguras e segmentação de VLANs.
+* **Wireshark Deep Dive:** Captura e inspeção de pacotes para perícia digital.
+* **Curso de redes basica da cisco:** ensina o basico sobre redes.
 
 ---
