@@ -2,19 +2,44 @@
 
 > "A Web é um ecossistema de confiança. Meu trabalho é entender onde essa confiança é abusada."
 
-### ❓ Para que serve esta pasta?
-Diferente da pasta de Redes (que foca nos trilhos), a pasta Web foca no **trem**. Aqui estudo a arquitetura das aplicações, como os navegadores conversam com servidores e como transformar vulnerabilidades em correções. É o estudo do código em movimento.
 
-### 🛡️ A Ciência por trás do Navegador
-Minha jornada em Web foca em três pilares que conectam tudo o que estudei:
+![HTTP](https://img.shields.io/badge/HTTP-FF0000?logo=http&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?logo=burpsuite&logoColor=white)
 
-1.  **Estrutura e Protocolo (HTTP/S):** Não vejo apenas sites, vejo requisições. Entender Cabeçalhos, Cookies e Verbos (GET/POST) é fundamental para entender como dados sensíveis viajam pela rede.
-2.  **O Mindset do Atacante (OWASP):** Uso o guia OWASP Top 10 não como uma lista de erros, mas como um mapa de defesa. Estudo Injeções (SQL/XSS) e Falhas de Controle de Acesso para construir aplicações resilientes.
-3.  **Ferramentas de Intercepção:** Domínio do ecossistema de proxies (como o Burp Suite) para analisar o tráfego que o usuário comum não vê.
-
-## 🔍 Frentes de Estudo Atuais
-* **Análise de Vulnerabilidades:** Identificar onde o desenvolvedor esqueceu de validar a entrada do usuário.
-* **Segurança em APIs:** Como garantir que a comunicação entre sistemas seja tão segura quanto a interface do usuário.
-* **Criptografia na Web:** Garantir que o HTTPS não seja apenas um cadeado verde, mas uma barreira real contra interceptações.
+**AppSec - Aplicações Web na Mira** 🔥
 
 ---
+
+### ❓ Para que serve esta pasta?
+
+Diferente da pasta de **Redes** (os trilhos), aqui eu estudo o **trem**: as aplicações web que rodam em cima da infraestrutura.
+
+Aqui não guardo só teoria... guardo o entendimento real de como a confiança na internet é construída e, principalmente, **onde ela se quebra**.
+
+Estudo desde o funcionamento básico do HTTP até as vulnerabilidades que permitem roubar sessões, dados de usuários ou até derrubar sistemas inteiros.
+
+---
+
+### 🌐 Por que Web Security é essencial?
+
+A maioria dos ataques reais hoje acontece **na camada da aplicação**.  
+Dominar redes é importante, mas sem entender a web você vê o tráfego... mas não entende o que o atacante realmente está explorando.
+
+Aqui eu foco em:
+
+- **HTTP & HTTPS** — O protocolo que move a internet (métodos, headers, cookies, autenticação, etc)
+- **Arquitetura Web** — Como navegadores, servidores, APIs e bancos de dados se comunicam
+- **OWASP Top 10** — As 10 vulnerabilidades mais críticas e exploradas do mundo
+- **Mindset Ofensivo + Defensivo** — Pensar como atacante para construir defesas mais fortes
+- **Burp Suite** — A principal ferramenta para interceptar, testar e manipular requisições em tempo real
+- **Principais Ataques** — SQL Injection, XSS, CSRF, Broken Access Control, IDOR e muito mais
+
+---
+
+**Esta pasta é onde a teoria das redes vira ataque e defesa reais.**  
+É o coração da segurança moderna na internet.
+
+---
+
+**Anderson Souza** | Tapioca Sec 🛡️
