@@ -1,4 +1,4 @@
-# 🌐 01_redes
+# 🌐 redes
 
 ![Cisco](https://img.shields.io/badge/Cisco-1E90FF?logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF0000?logo=cisco&logoColor=white)
