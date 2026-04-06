@@ -1,29 +1,35 @@
-# 🌐 Infraestrutura e Defesa de Redes (Cisco Networking Academy)
+# 🌐 01_redes
 
-> "Para dominar a arte da invasão, é preciso primeiro ser um mestre na arte da construção."
+![Cisco](https://img.shields.io/badge/Cisco-1E90FF?logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF0000?logo=cisco&logoColor=white)
 
-### ❓ Para que serve esta pasta?
-Este repositório é o registro da minha evolução técnica na fundação de Redes. Aqui não guardo apenas arquivos, mas o entendimento de como os dados nascem, viajam e são protegidos. Estudei desde a configuração básica de dispositivos até os protocolos complexos que mantêm a internet de pé. Cada módulo aqui registrado é uma camada a menos de "blindagem" que um atacante teria contra o meu monitoramento.
-
-### 🛡️ O Roadmap da Minha Base Técnica
-Não estudei apenas comandos, estudei o fluxo. Minha base atual cobre:
-
-* **Fundamentos e Acesso (Módulos 1-7):** Construção de redes domésticas e empresariais, padrões Ethernet e como a Camada Física (cabos e sinais) sustenta tudo. Aqui aprendi que a segurança começa no acesso físico.
-* **O Coração da Internet - IP (Módulos 8-10):** Domínio total de IPv4 e IPv6. Entendo como o mundo se endereça, como as sub-redes isolam tráfego e por que o esgotamento do IPv4 mudou o jogo da segurança.
-* **Automação e Saída (Módulos 11-12):** Implementação de DHCP (entrega dinâmica de confiança) e Gateways com NAT. Entendo como redes privadas se escondem atrás de IPs públicos para ganhar uma camada extra de proteção.
-* **Resolução de Endereços - ARP (Módulo 13):** Onde a lógica (IP) vira física (MAC). Este estudo foi crucial para eu entender como ataques de interceptação (Man-in-the-Middle) nascem na confiança cega dos protocolos locais.
-
-## 🧠 Matriz de Guerra (Visão Cyber)
-
-| Área de Estudo | O que foi dominado | Por que isso me torna um defensor melhor? |
-| :--- | :--- | :--- |
-| **Endereçamento** | IPv4, IPv6, Subnetting | Permite segmentar redes para que uma invasão em um PC não comprometa o servidor. |
-| **Protocolos Base** | ARP, ICMP, DHCP | Essencial para detectar 'Rogue Devices' (dispositivos intrusos) tentando se passar pelo Gateway. |
-| **Conectividade** | NAT, Portas, Roteamento | Base para configurar Firewalls e entender como o tráfego malicioso tenta "pular" para dentro da rede. |
-| **Modelos** | OSI e TCP/IP | Dá o vocabulário e a lógica para realizar Perícia Digital (Forensics) em qualquer camada do tráfego. |
-
-## 🛠️ Ferramentas em Constante Uso
-* **Cisco Packet Tracer:** Onde projeto e estresso topologias de rede antes de irem para o mundo real.
-* **Wireshark:** Minha lupa. Uso para dissecar pacotes e validar se os protocolos estão seguindo as regras ou se há algo suspeito no ar.
+**A base de tudo em Cybersecurity.** 🛠️🔥
 
 ---
+
+### ❓ Para que serve esta pasta?
+
+Este é o **registro completo da minha evolução** na fundação de Redes de Computadores.  
+
+Aqui não guardo apenas arquivos... guardo o **entendimento real** de como os dados nascem, viajam, se comunicam e podem ser protegidos.  
+
+Desde a configuração básica de um switch ou roteador até os protocolos complexos que sustentam a internet inteira — tudo está documentado aqui.
+
+**Redes são o alicerce de toda a cibersegurança.** 🌐  
+Se você não entende como a informação flui, fica difícil proteger ela, detectar invasões ou investigar incidentes. É como tentar construir uma fortaleza sem conhecer o terreno primeiro.
+
+Cada módulo estudado aqui remove **uma camada de blindagem** que um atacante teria contra mim. Quanto mais eu domino redes, mais forte fica minha visão de defesa.
+
+---
+
+### 🎯 Por que isso é tão importante?
+
+- É a base para Blue Team, Pentest, Forensics e Threat Hunting  
+- Ensina a pensar como a infraestrutura realmente funciona  
+- Prepara o terreno para entender ataques (ARP Spoofing, MITM, VLAN Hopping, etc)
+
+**Tudo começa aqui.** Esta pasta é a raiz da minha jornada em Tapioca Sec. 🌱
+
+---
+
+**Anderson Souza** | Tapioca Sec 🛡️
