@@ -28,7 +28,7 @@ Cada módulo estudado aqui remove **uma camada de blindagem** que um atacante te
 - Ensina a pensar como a infraestrutura realmente funciona  
 - Prepara o terreno para entender ataques (ARP Spoofing, MITM, VLAN Hopping, etc)
 
-**Tudo começa aqui.** Esta pasta é a raiz da minha jornada em Tapioca Sec. 🌱
+**Tudo começa aqui.** Esta pasta é a raiz da minha jornada em redes. 🌱
 
 ---
 
