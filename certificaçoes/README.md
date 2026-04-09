@@ -16,7 +16,7 @@ Diferente de outras áreas, a segurança da informação exige padrões rígidos
 | Certificação | Instituição | O que ela valida? | Status |
 | :--- | :--- | :--- | :--- |
 | **Cybersecurity Essentials** | Cisco | Princípios fundamentais de defesa e ameaças digitais. | ✅ Concluído |
-| **noções basica de rede** | cisco | Entender a base de redes e como funciona a internet. | concluído |
+| **noções basica de rede** | cisco | Entender a base de redes e como funciona a internet. | ✅  concluído |
 | **dispositivos de rede e configuração inicial** | cisco | continuar aprendendo os conceitos de rede. | em progresso. |
 
 ## 🚀 Próximos Alvos (Minha Trilha)
