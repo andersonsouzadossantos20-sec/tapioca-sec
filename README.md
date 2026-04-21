@@ -2,7 +2,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/andersonsouzadossantos20-sec/tapioca-sec)
 ![GitHub repo size](https://img.shields.io/github/repo-size/andersonsouzadossantos20-sec/tapioca-sec)
 
-# 🛡️ Tapioca Sec - Minha Jornada em Cybersecurity
+# 🛡️Minha Jornada em Cybersecurity
 
 
 Este repositório documenta minha evolução técnica e registro de laboratórios práticos em segurança de redes e sistemas. Meu foco é construir uma base sólida, unindo o entendimento do hardware, a lógica das redes e o desenvolvimento de software para compreender a segurança da informação de ponta a ponta.
