@@ -32,4 +32,4 @@ Cada módulo estudado aqui remove **uma camada de blindagem** que um atacante te
 
 ---
 
-**Anderson Souza** | Tapioca Sec 🛡️
+**Anderson Souza** 🛡️
