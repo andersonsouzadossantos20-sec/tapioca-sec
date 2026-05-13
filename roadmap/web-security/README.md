@@ -42,4 +42,4 @@ Aqui eu foco em:
 
 ---
 
-**Anderson Souza** | Tapioca Sec 🛡️
+**Anderson Souza**🛡️
