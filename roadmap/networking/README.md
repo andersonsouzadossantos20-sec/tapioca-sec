@@ -24,7 +24,7 @@ Cada módulo estudado aqui remove **uma camada de blindagem** que um atacante te
 
 ### 🎯 Por que isso é tão importante?
 
-- É a base para Blue Team, Pentest, Forensics e Threat Hunting  
+- É a para Pentest, Forensics e Threat Hunting  
 - Ensina a pensar como a infraestrutura realmente funciona  
 - Prepara o terreno para entender ataques (ARP Spoofing, MITM, VLAN Hopping, etc)
 
